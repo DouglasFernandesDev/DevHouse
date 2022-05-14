@@ -11,6 +11,9 @@ pkg install node
 npm install --global yarn
 ```
 
+#### É necessário a integração com banco de dados
+Neste caso eu integrei ao MongoDB, esta localizado em:  src/app.js
+
 #### Os endpoints são:
 
 ```bash
