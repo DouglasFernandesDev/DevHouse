@@ -17,9 +17,13 @@ Neste caso eu integrei ao MongoDB, esta localizado em:  src/app.js
 #### Os endpoints são:
 
 ```bash
-  aluno
-  avaliacoes
-  matricula
+  /sessions
+  /houses
+  /houses/:house_id
+  /dashboard
+  /houses/:house_id/reserve
+  /reserves
+  /reserves/cancel
 ```
 
 ## Rodando os testes
